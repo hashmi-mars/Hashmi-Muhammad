@@ -1,4 +1,4 @@
-![logo] (https://github.com/hashmi-mars/Hashmi-Muhammad/blob/main/github.png)
+![logo](https://github.com/hashmi-mars/Hashmi-Muhammad/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Hashmi Muhammad</h1>
 <h3 align="center">A passionate Data Engineer from Australia</h3>
 
